@@ -9,5 +9,5 @@ Livro Base: [Fundamentals of Data Engineering](./complementar/fundamentals.pdf/)
 | 03/10 | [Object e Block Storage](./apresentacoes/storage.pdf) | Matheu | |
 | 10/10 | Apache Iceberg | Henrique | [Real-time Data Infrastructure at Uber](./complementar/uber.pdf/) [Apache Iceberg The Definitive Guide](./complementar/Tomer_Shiran,_Jason_Hughes,_Alex_Merced_Apache_Iceberg_The_Definitive.pdf/) |
 | 31/10 | [Data Warehouse](./apresentacoes/DW.pdf/) | Carlos Filipe | |
-| 07/11 | [OLAP e OLTP *](./apresentacoes/OLAP.pdf) | Caue Paiva | |
+| 07/11 | [OLAP e OLTP](./apresentacoes/OLAP.pdf) | Caue Paiva | |
 | 14/11 | [Batch e Streaming *]() | Zaneti | |
